@@ -1,0 +1,15 @@
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\bin\Debug\net6.0\MemoryAllocation.exe
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\bin\Debug\net6.0\MemoryAllocation.deps.json
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\bin\Debug\net6.0\MemoryAllocation.runtimeconfig.json
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\bin\Debug\net6.0\MemoryAllocation.dll
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\bin\Debug\net6.0\MemoryAllocation.pdb
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\MemoryAllocation.csproj.AssemblyReference.cache
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\MemoryAllocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\MemoryAllocation.AssemblyInfoInputs.cache
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\MemoryAllocation.AssemblyInfo.cs
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\MemoryAllocation.csproj.CoreCompileInputs.cache
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\MemoryAllocation.dll
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\refint\MemoryAllocation.dll
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\MemoryAllocation.pdb
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\MemoryAllocation.genruntimeconfig.cache
+C:\Users\aGGtila\source\repos\MemoryAllocation\MemoryAllocation\obj\Debug\net6.0\ref\MemoryAllocation.dll
